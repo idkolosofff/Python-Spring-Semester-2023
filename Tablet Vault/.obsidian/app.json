@@ -1,1 +1,7 @@
-{}
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "Files",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
+}
