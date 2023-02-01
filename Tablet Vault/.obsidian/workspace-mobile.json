@@ -11,7 +11,7 @@
             "id": "1963101813eb4720",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -114,5 +114,7 @@
     "currentTab": 0
   },
   "active": "1963101813eb4720",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Random note.md"
+  ]
 }
